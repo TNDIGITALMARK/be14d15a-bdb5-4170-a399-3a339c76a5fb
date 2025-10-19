@@ -68,7 +68,7 @@ Feel free to adjust this based on your workplace culture and specific situation!
       {
         id: '1-3',
         role: 'user',
-        content: 'That's perfect! Can you make it a bit more casual since my workplace is pretty relaxed?',
+        content: 'That\'s perfect! Can you make it a bit more casual since my workplace is pretty relaxed?',
         timestamp: new Date('2025-10-15T10:44:00'),
       },
       {
